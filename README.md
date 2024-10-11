@@ -213,3 +213,8 @@ CALL ConsultarVentasProducto(NULL, 'Lápiz Labial');
 CALL ConsultarVentasProducto(1, NULL);
 
 ``` 
+
+## Contribuidores
+
+- Jaime Prada
+- Camila Toledo
